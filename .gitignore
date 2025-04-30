@@ -29,6 +29,6 @@ TestResults/
 # Others
 node_modules/
 .env
-*.db
+.db
 
 carbooking.frontend/
