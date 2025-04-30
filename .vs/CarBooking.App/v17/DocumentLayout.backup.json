@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\barnebys\\CarBooking.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6399116-1467-4D24-8143-5163ED7503E3}|CarBooking.Tests\\CarBooking.Tests.csproj|c:\\dev\\barnebys\\carbooking.app\\carbooking.tests\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6399116-1467-4D24-8143-5163ED7503E3}|CarBooking.Tests\\CarBooking.Tests.csproj|solutionrelative:carbooking.tests\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6399116-1467-4D24-8143-5163ED7503E3}|CarBooking.Tests\\CarBooking.Tests.csproj|c:\\dev\\barnebys\\carbooking.app\\carbooking.tests\\servicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6399116-1467-4D24-8143-5163ED7503E3}|CarBooking.Tests\\CarBooking.Tests.csproj|solutionrelative:carbooking.tests\\servicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6399116-1467-4D24-8143-5163ED7503E3}|CarBooking.Tests\\CarBooking.Tests.csproj|c:\\dev\\barnebys\\carbooking.app\\carbooking.tests\\repotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6399116-1467-4D24-8143-5163ED7503E3}|CarBooking.Tests\\CarBooking.Tests.csproj|solutionrelative:carbooking.tests\\repotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|c:\\dev\\barnebys\\carbooking.app\\carbooking.api\\bookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|solutionrelative:carbooking.api\\bookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|c:\\dev\\barnebys\\carbooking.app\\carbooking.api\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|solutionrelative:carbooking.api\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|c:\\dev\\barnebys\\carbooking.app\\carbooking.api\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|solutionrelative:carbooking.api\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|c:\\dev\\barnebys\\carbooking.app\\carbooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|solutionrelative:carbooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|c:\\dev\\barnebys\\carbooking.app\\carbooking.api\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|solutionrelative:carbooking.api\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|c:\\dev\\barnebys\\carbooking.app\\carbooking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|solutionrelative:carbooking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6399116-1467-4D24-8143-5163ED7503E3}|CarBooking.Tests\\CarBooking.Tests.csproj|c:\\dev\\barnebys\\carbooking.app\\carbooking.tests\\carbooking.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6399116-1467-4D24-8143-5163ED7503E3}|CarBooking.Tests\\CarBooking.Tests.csproj|solutionrelative:carbooking.tests\\carbooking.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|c:\\dev\\barnebys\\carbooking.app\\carbooking.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2D0FD25-6845-42D9-9CD9-314FF89BDC71}|CarBooking.Api\\CarBooking.Api.csproj|solutionrelative:carbooking.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 352,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntegrationTests.cs",
+              "DocumentMoniker": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Tests\\IntegrationTests.cs",
+              "RelativeDocumentMoniker": "CarBooking.Tests\\IntegrationTests.cs",
+              "ToolTip": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Tests\\IntegrationTests.cs",
+              "RelativeToolTip": "CarBooking.Tests\\IntegrationTests.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:18:00.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceTests.cs",
+              "DocumentMoniker": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Tests\\ServiceTests.cs",
+              "RelativeDocumentMoniker": "CarBooking.Tests\\ServiceTests.cs",
+              "ToolTip": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Tests\\ServiceTests.cs",
+              "RelativeToolTip": "CarBooking.Tests\\ServiceTests.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAYwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:52:17.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepoTests.cs",
+              "DocumentMoniker": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Tests\\RepoTests.cs",
+              "RelativeDocumentMoniker": "CarBooking.Tests\\RepoTests.cs",
+              "ToolTip": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Tests\\RepoTests.cs",
+              "RelativeToolTip": "CarBooking.Tests\\RepoTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:46:31.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\Services.cs",
+              "RelativeDocumentMoniker": "CarBooking.Api\\Services.cs",
+              "ToolTip": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\Services.cs",
+              "RelativeToolTip": "CarBooking.Api\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:31:32.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CarBooking.Api\\Program.cs",
+              "ToolTip": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\Program.cs",
+              "RelativeToolTip": "CarBooking.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:46:23.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Domain.cs",
+              "DocumentMoniker": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\Domain.cs",
+              "RelativeDocumentMoniker": "CarBooking.Api\\Domain.cs",
+              "ToolTip": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\Domain.cs",
+              "RelativeToolTip": "CarBooking.Api\\Domain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:31:10.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarBooking.Tests.csproj",
+              "DocumentMoniker": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Tests\\CarBooking.Tests.csproj",
+              "RelativeDocumentMoniker": "CarBooking.Tests\\CarBooking.Tests.csproj",
+              "ToolTip": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Tests\\CarBooking.Tests.csproj",
+              "RelativeToolTip": "CarBooking.Tests\\CarBooking.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T20:49:57.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CarBooking.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CarBooking.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T06:35:09.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\Repo.cs",
+              "RelativeDocumentMoniker": "CarBooking.Api\\Repo.cs",
+              "ToolTip": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\Repo.cs",
+              "RelativeToolTip": "CarBooking.Api\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:31:41.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingDbContext.cs",
+              "DocumentMoniker": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\BookingDbContext.cs",
+              "RelativeDocumentMoniker": "CarBooking.Api\\BookingDbContext.cs",
+              "ToolTip": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\BookingDbContext.cs",
+              "RelativeToolTip": "CarBooking.Api\\BookingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:31:54.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CarBooking.Api\\appsettings.json",
+              "ToolTip": "C:\\Dev\\barnebys\\CarBooking.App\\CarBooking.Api\\appsettings.json",
+              "RelativeToolTip": "CarBooking.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T12:51:34.909Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
