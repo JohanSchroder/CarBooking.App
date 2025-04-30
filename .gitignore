@@ -1,34 +1,21 @@
-# Build results
+## Build results
 bin/
 obj/
-
-# User-specific files
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-# Rider / VS Code / VS
-.idea/
+## VS Code
 .vscode/
-*.csproj.user
 
-# ASP.NET
-wwwroot/dist/
-wwwroot/node_modules/
+## Visual Studio
+.vs/
 
-# Logs
-*.log
-
-# Test results
+## Others
 TestResults/
-*.trx
-*.coverage
-*.coveragexml
-
-# Others
-node_modules/
-.env
+*.log
 *.db
-
+*.DS_Store
+.env
 carbooking.frontend/
